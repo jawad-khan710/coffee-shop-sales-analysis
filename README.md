@@ -151,4 +151,5 @@ jupyter notebook Coffee_Shop_Sales_Analysis.ipynb
 ## 📬 Connect with Me
 
 > *This project was built as part of my Data Analytics learning journey.*
+> LinkedIn:(www.linkedin.com/in/jawad-khan-133755408)
 
